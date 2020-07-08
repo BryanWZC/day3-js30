@@ -7,13 +7,11 @@ This mini project was created for the Javascript 30 challenge. Here's the [link]
 
 &nbsp;
 ### Instructions
-&nbsp;
 
 Modify the spacing and blur through the range dial given. Click on the color block to activate the color picker and change the color.
 
 &nbsp;
 ### Lessons Learned
-&nbsp;
 
 - Learned abour CSS elements and how to use JS to update them
   - Usually declared on root which is similar to html element which is the highest level
@@ -30,7 +28,6 @@ Modify the spacing and blur through the range dial given. Click on the color blo
 
 &nbsp;
 ##### Further Notes: Using CSS Custom Properties
-&nbsp;
 
 - Custom properties known also as CSS variables or cascading variables
 - Values are not stored like variables but used when needed
